@@ -143,9 +143,9 @@ function kctf_cluster_create_usage {
 function kctf_cluster_create {
   # Default Configuration
   CLUSTER_TYPE="gce"
-  REGISTRY="eu.gcr.io"
+  REGISTRY="docker.pkg.dev"
   PROJECT=""
-  ZONE="europe-west4-b"
+  ZONE="europe-west4"
   CLUSTER_NAME="kctf-cluster"
   DOMAIN_NAME=""
   EMAIL_ADDRESS=""
