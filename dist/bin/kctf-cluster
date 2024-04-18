@@ -145,7 +145,7 @@ function kctf_cluster_create {
   CLUSTER_TYPE="gce"
   REGISTRY="docker.pkg.dev"
   PROJECT=""
-  ZONE="europe-west4b"
+  ZONE="europe-west4-b"
   ARZONE="europe-west4"
   CLUSTER_NAME="kctf-cluster"
   DOMAIN_NAME=""
